@@ -22,6 +22,12 @@
             ]
           },
           {
+            "group": "Integrations",
+            "pages": [
+              "integrations/whatsapp"
+            ]
+          }
+          {
             "group": "Essentials",
             "pages": [
               "essentials/markdown",
